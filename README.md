@@ -13,3 +13,6 @@
 
 - Image Tool
   - ![alt tag](https://github.com/whcheng740418/GUI/blob/master/Image.png?raw=true)
+
+- Soir Tool
+  - ![alt tag](https://github.com/whcheng740418/GUI/blob/master/Solr.png?raw=true)
