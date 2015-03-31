@@ -16,3 +16,8 @@
 
 - Soir Tool
   - ![alt tag](https://github.com/whcheng740418/GUI/blob/master/Solr.png?raw=true)
+
+- Monitor Tool
+  - ![alt tag](https://github.com/whcheng740418/GUI/blob/master/monitor.png?raw=true)
+  - ![alt tag](https://github.com/whcheng740418/GUI/blob/master/monitor2.png?raw=true)
+  - ![alt tag](https://github.com/whcheng740418/GUI/blob/master/monitor2_1.png?raw=true)
